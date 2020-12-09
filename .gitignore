@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Игнорировать все файлы из папки bar и подпапок, если таковые будут
+/matrix_multiplication/Debug/*
+/Debug/*
+/.vs/*

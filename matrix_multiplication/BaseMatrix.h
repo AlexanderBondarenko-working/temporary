@@ -12,4 +12,5 @@ public:
 	BaseMatrix& operator=(const BaseMatrix& source);
 	virtual ~BaseMatrix();
 
+
 };
